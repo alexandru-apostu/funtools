@@ -3,7 +3,6 @@ from typing import Optional, List
 from sqlalchemy import (
     MetaData,
     create_engine,
-    text,
     Table,
     Column,
     Integer,
